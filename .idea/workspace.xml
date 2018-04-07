@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd3aaf22-0a17-4d7d-9b48-64928361911a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/findbugs/examples/BigValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/findbugs/examples/CalendarYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/findbugs/examples/DepExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/findbugs/examples/OfConcernRankBugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/findbugs/examples/ScaryRankBugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/findbugs/examples/TroublingRankBugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/review/exercise/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samples/scrap/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samples/scrap/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samples/vulnerabilities/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/samples/vulnerabilities/Passwords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sonar/bugs/Continent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sonar/bugs/SampleBugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/checkstyle-checks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/find-bugs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/pmd-rulesets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,8 +53,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -121,6 +103,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/java/com/samples/scrap/MainClass.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -352,7 +335,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -473,8 +456,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
